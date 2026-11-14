@@ -1,1 +1,6 @@
-
+streamlit
+pandas
+fastparquet
+matplotlib
+seaborn
+numpy
